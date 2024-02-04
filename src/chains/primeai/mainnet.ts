@@ -6,11 +6,11 @@ export const mainnet: MainNet = {
   id: '94C49B3B-2C88-4408-B566-3D277C596778',
   // https://github.com/PrimeaiProject/Primeai/blob/main/src/chainparams.cpp#L179
   hashGenesisBlock:
-    '00000044d33c0c0ba019be5c0249730424a69cb4c222153322f68c6104484806',
+    '00x0',
   // https://github.com/PrimeaiProject/Primeai/blob/main/src/chainparams.cpp#L172
-  port: 19000,
+  port: 00,
   // https://github.com/PrimeaiProject/Primeai/blob/main/src//chainparamsbase.cpp#L36
-  portRpc: 19001,
+  portRpc: 00,
   protocol: {
     magic: 0x5255454e,
   },
